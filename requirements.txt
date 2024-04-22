@@ -1,0 +1,14 @@
+beautifulsoup4
+selenium
+seleniumbase
+pandas
+seaborn
+matplotlib
+streamlit==1.31.0
+pdfplumber
+docx2txt
+openpyxl
+nltk
+plotly
+wordcloud
+lxml
